@@ -1,21 +1,10 @@
 <html>
-  <style>
-    h1 {
-      background-color: black;
-      color: white;
-    }
-  </style>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+  </head>
   <body>
     <h1>Eu sou um título</h1>
     <h1>Eu sou um título 2</h1>
   </body>
-  <script>
-    alert("Olá mundo!");
-    document.querySelectorAll("h1").forEach(
-      (title, index) =>
-        (title.onclick = () => {
-          alert(`Você clicou no ${index} título!`);
-        })
-    );
-  </script>
+  <script src="main.js"></script>
 </html>
