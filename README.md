@@ -1,6 +1,6 @@
 # Introdução ao desenvolvimento web e conceitos básicos de front-end, como HTML, CSS e JavaScript.
 
-Este repositório é um guia para acompanhar uma sequência de posts no ([Dev.to](https://dev.to/carmichaelf/introducao-ao-desenvolvimento-webfront-end)). Cada branch deste repositório está relacionada a um post, permitindo que você acesse facilmente o código e os arquivos relacionados a cada post.
+Este repositório é um guia para acompanhar uma sequência de posts no ([Dev.to](https://dev.to/carmichaelf)). Cada branch deste repositório está relacionada a um post, permitindo que você acesse facilmente o código e os arquivos relacionados a cada post.
 
 ## Como usar
 
