@@ -1,6 +1,6 @@
 # Introdução ao desenvolvimento web e conceitos básicos de front-end, como HTML, CSS e JavaScript.
 
-Este repositório é um guia para acompanhar uma playlist de vídeos no YouTube([Adicionar link]()). Cada branch deste repositório está relacionada a um vídeo da playlist, permitindo que você acesse facilmente o código e os arquivos relacionados a cada vídeo.
+Este repositório é um guia para acompanhar uma sequência de posts no ([Dev.to]()). Cada branch deste repositório está relacionada a um post, permitindo que você acesse facilmente o código e os arquivos relacionados a cada post.
 
 ## Como usar
 
@@ -34,23 +34,23 @@ Este repositório é um guia para acompanhar uma playlist de vídeos no YouTube(
      git clone https://github.com/CarmichaelF/intro-front-end.git
     ```
 
-3.  Navegue pelas branches para encontrar o vídeo que você deseja acompanhar. Cada branch tem o nome do vídeo correspondente.
+3.  Navegue pelas branches para encontrar o post que você deseja acompanhar. Cada branch tem o nome do post correspondente.
 
     ```
     git branch
     ```
 
-4.  Selecione a branch do vídeo que você deseja acessar:
+4.  Selecione a branch do post que você deseja acessar:
 
     ```
     git checkout NOME_DA_BRANCH
     ```
 
-5.  Os arquivos e o código relacionado ao vídeo estarão disponíveis na pasta raiz do repositório. Certifique-se de estar usando a versão correta do código e dos arquivos para acompanhar o vídeo corretamente.
+5.  Os arquivos e o código relacionado ao post estarão disponíveis na pasta raiz do repositório. Certifique-se de estar usando a versão correta do código e dos arquivos para acompanhar o post corretamente.
 
 ## Notas
 
-- Cada vídeo terá suas próprias instruções de configuração, leia-as antes de começar
+- Cada post terá suas próprias instruções de configuração, leia-as antes de começar
 - Certifique-se de sempre estar usando a versão mais recente deste repositório (git pull)
 - Se você encontrar algum erro ou tiver alguma dúvida, crie uma issue no GitHub para que eu possa ajudá-lo.
 
