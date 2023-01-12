@@ -54,4 +54,4 @@ Este repositório é um guia para acompanhar uma sequência de posts no ([Dev.to
 - Certifique-se de sempre estar usando a versão mais recente deste repositório (git pull)
 - Se você encontrar algum erro ou tiver alguma dúvida, crie uma issue no GitHub para que eu possa ajudá-lo.
 
-Acompanhar essa playlist com esse guia, vai garantir que você tenha o conteúdo e o código relacionado a cada video, e vai te ajudar a acompanhar e praticar o conteúdo ensinado. Divirta-se!
+Divirta-se!
