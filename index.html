@@ -1,10 +1,52 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <style>
+      .background {
+        background-color: lightblue;
+      }
+
+      .color {
+        color: white;
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      .font {
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+      }
+
+      .sized {
+        height: 200px;
+        width: 400px;
+      }
+
+      .text-align {
+        text-align: center;
+      }
+
+      .border {
+        border: 2px solid black;
+      }
+    </style>
   </head>
   <body>
-    <h1>Eu sou um título</h1>
-    <h1>Eu sou um título 2</h1>
+    <div class="background color border">
+      <p class="font">
+        Este é um parágrafo com fundo azul claro, cor branca, borda preta, fonte
+        Arial e tamanho de 20 pixels, e centralizado.
+      </p>
+    </div>
+    <div class="hidden">
+      <p>Este é um parágrafo escondido.</p>
+    </div>
+    <div class="sized">
+      <p>
+        Este é um parágrafo com 200 pixels de altura e 400 pixels de largura.
+      </p>
+    </div>
   </body>
-  <script src="main.js"></script>
 </html>
